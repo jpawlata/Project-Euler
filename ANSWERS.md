@@ -22,5 +22,7 @@ Here you can check all the answers I got for the Project Euler's problems as wel
 | Problem 16     | 1366          |:heavy_check_mark:|                  |
 | Problem 17     | 21124         |:heavy_check_mark:|                  |
 | Problem 18     | 1074          |:heavy_check_mark:|                  |
+| Problem 19     | 171           |:heavy_check_mark:|                  |
+| Problem 20     | 648           |:heavy_check_mark:|                  |
 
 
